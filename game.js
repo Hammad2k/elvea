@@ -247,7 +247,7 @@ const textNodes = [
   },
   {
     id: 10,
-    text: 'The king kill kills you as was simply too skillful and strong.',
+    text: 'The king kills you as he was simply too skillful and strong.',
     options: [
       {
         text: 'Restart',

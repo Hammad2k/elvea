@@ -237,7 +237,7 @@ const textNodes = [
   },
   {
     id: 9,
-    text: 'The King is insulted by your cowardice and you are publicly executed',
+    text: 'The king is insulted by your cowardice and you are publicly executed',
     options: [
       {
         text: 'Restart',
@@ -247,7 +247,7 @@ const textNodes = [
   },
   {
     id: 10,
-    text: 'The king kill kills you as he was simply too skillful and strong.',
+    text: 'The king kills you as he was simply too skillful and strong.',
     options: [
       {
         text: 'Restart',
